@@ -74,6 +74,8 @@
         <Lichaam eId="body" wId="body">
           <FormeleDivisie eId="fdvs_o_1" wId="mnre1045_1__fdvs_o_1">
             <Kop>
+              <Label>FormeleDivisie</Label>
+              <Nummer>1</Nummer>
               <Opschrift>DEEL 1: Projectbesluit</Opschrift>
             </Kop>
             <FormeleInhoud eId="fdvs_o_1__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fcontent_o_1">
@@ -81,6 +83,8 @@
             </FormeleInhoud>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_1">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.1</Nummer>
                 <Opschrift>Hoofdstuk 1: Besluit tot het vaststellen van het Projectbesluit Net op Zee Hollandse Kust (Noord) en Hollandse Kust (west Alpha) met motivering en overwegingen</Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_1__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1">
@@ -88,83 +92,83 @@
                 <Al>overwegende,</Al>
                 <Lijst eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1">
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_1">
-                    <LiNummer>1</LiNummer>
+                    <LiNummer>a.</LiNummer>
                     <Al>dat het ten behoeve van de aanleg van het net op zee Hollandse Kust (noord) en (west Alpha) in de gemeenten Heemskerk, Beverwijk en Velsen noodzakelijk is een regeling (Projectbesluit) als bedoeld Omgevingswet (hierna: Ow) te treffen;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_2">
-                    <LiNummer>2</LiNummer>
+                    <LiNummer>b.</LiNummer>
                     <Al>dat het realiseren van windenergie op zee essentieel is voor het behalen van de doelstelling voor de opwekking van duurzame energie zoals vastgelegd in het op 6 september 2013 vastgestelde Nationaal Energieakkoord, te weten een toename van het aandeel van hernieuwbare energieopwekking naar 14% in 2020 (deze doelstelling komt voort uit de Europese richtlijn voor hernieuwbare energie) en een verdere stijging van dit aandeel naar 16% in 2023;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_3" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_3">
-                    <LiNummer>3</LiNummer>
+                    <LiNummer>c.</LiNummer>
                     <Al>dat hiertoe onder andere het operationeel windvermogen op zee wordt opgeschaald naar 4.450 MW in 2023;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_4" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_4">
-                    <LiNummer>4</LiNummer>
+                    <LiNummer>d.</LiNummer>
                     <Al>dat dit nieuwe verbindingen van windturbines op zee met het landelijk hoogspanningsnet vereist;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_5" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_5">
-                    <LiNummer>5</LiNummer>
+                    <LiNummer>e.</LiNummer>
                     <Al>dat in het Energieakkoord is afgesproken dat er, waar dit efficiënter is dan een directe aansluiting van windparken op het landelijke hoogspanningsnet, een net op zee komt;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_6" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_6">
-                    <LiNummer>6</LiNummer>
+                    <LiNummer>f.</LiNummer>
                     <Al>dat hierbij eveneens is afgesproken dat over de vormgeving en randvoorwaarden van dit net op zee een besluit zal worden genomen door het kabinet dat zo nodig in wetgeving wordt verwerkt, zodat de nieuwe windparken tijdig kunnen worden verbonden met het landelijk net;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_7" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_7">
-                    <LiNummer>7</LiNummer>
+                    <LiNummer>g.</LiNummer>
                     <Al>dat het kabinet op 23 maart 2016 TenneT TSO B.V. (hierna: TenneT) bij wet heeft aangewezen als netbeheerder op zee ter realisatie van deze doelstellingen uit het Energieakkoord (wijziging van de Elektriciteitswet 1998, tijdig realiseren doelstellingen Energieakkoord; Staatsblad 2016, 116);</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_8" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_8">
-                    <LiNummer>8</LiNummer>
+                    <LiNummer>h.</LiNummer>
                     <Al>dat het kabinet op 26 september 2014 de Tweede Kamer heeft bericht de opgave uit het Energieakkoord voor wind op zee binnen drie gebieden te realiseren en als derde het gebied Hollandse Kust (noord) te ontwikkelen, waarvan het gedeelte buiten de 12-mijlszone in de Rijksstructuurvisie Windenergie op Zee is aangewezen als windenergiegebied (Kamerstukken II, 2014/15, 33 561, nr. 11) en het aansluitende gedeelte binnen 12 mijlszone in de Rijksstructuurvisie Windenergie op Zee Aanvulling gebied Hollandse Kust is aangewezen als windenergiegebied (Kamerstukken II, 2016/17, 33 561, nr. 37) en dat het kabinet op 28 maart 2018 de Tweede Kamer heeft bericht het gebied Hollandse Kust (west) te ontwikkelen; </Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_9" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_9">
-                    <LiNummer>9</LiNummer>
+                    <LiNummer>i.</LiNummer>
                     <Al>dat in het ontwikkelkader windenergie op zee is aangegeven dat TenneT de aansluiting van het net op zee Hollandse Kust (noord) en Hollandse Kust (west Alpha) zal realiseren door middel van twee gestandaardiseerde platforms van 700 MW (Kamerstukken II, 2015/16, 33 561, nr. 27);</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_10" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_10">
-                    <LiNummer>10</LiNummer>
+                    <LiNummer>j.</LiNummer>
                     <Al>dat van xx tot en met xx het voornemen en het participatieplan van het project Net op zee Hollandse Kust (Noord) en Hollandse Kust (west Alpha) ter inzage hebben gelegen. In die periode was het mogelijk om te reageren door een schriftelijke of mondelinge reactie te geven op het voornemen en het voorstel voor participatie; </Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_11" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_11">
-                    <LiNummer>11</LiNummer>
+                    <LiNummer>k.</LiNummer>
                     <Al>dat er xx reacties zijn binnengekomen en dat deze zijn gebundeld en beantwoord in de Reactienota Voornemen en Participatie</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_12" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_12">
-                    <LiNummer>12</LiNummer>
+                    <LiNummer>l.</LiNummer>
                     <Al>dat met deze reacties voor zover mogelijk, rekening is gehouden bij de verdere planvorming en deze zijn gebruikt om het participatieplan aan te passen voor de volgende fase;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_13" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_13">
-                    <LiNummer>13</LiNummer>
+                    <LiNummer>m.</LiNummer>
                     <Al>dat de Minister van Economische Zaken en Klimaat op xx het Voorkeursalternatief heeft vastgesteld. </Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_14" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_14">
-                    <LiNummer>14</LiNummer>
+                    <LiNummer>n.</LiNummer>
                     <Al>dat een verkenning is uitgevoerd ten behoeve van dit project;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_15" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_15">
-                    <LiNummer>15</LiNummer>
+                    <LiNummer>o.</LiNummer>
                     <Al>dat met het oog op deze verkenning een ieder in de gelegenheid is gesteld om mogelijke oplossingen voor te dragen;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_16" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_16">
-                    <LiNummer>16</LiNummer>
+                    <LiNummer>p.</LiNummer>
                     <Al>dat bij de vaststelling gebruik is gemaakt van de ondergrond met de bestandsnaam xx;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_17" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_17">
-                    <LiNummer>17</LiNummer>
+                    <LiNummer>q.</LiNummer>
                     <Al>dat het ontwerp van het onderhavige besluit met de bijbehorende regels en bijlagen en daarop betrekking hebbende stukken, als vervat in het GML-bestand xx, van xx, tot en met xx, voor een ieder ter inzage heeft gelegen;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_18" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_18">
-                    <LiNummer>18</LiNummer>
+                    <LiNummer>r.</LiNummer>
                     <Al>dat gedurende deze termijn xx unieke zienswijzen zijn ingediend;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_19" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_19">
-                    <LiNummer>19</LiNummer>
+                    <LiNummer>s.</LiNummer>
                     <Al>dat een aantal van deze zienswijzen aanleiding heeft gegeven dit Projectbesluit aan te passen, ten opzichte van het ontwerp daarvan, van welke wijzigingen in de bijlage bij dit besluit een overzicht wordt gegeven;</Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_20" wId="mnre1045_1__fdvs_o_1__fdvs_o_1__fcontent_o_1__list_o_1__item_20">
-                    <LiNummer>20</LiNummer>
+                    <LiNummer>t.</LiNummer>
                     <Al>onder verwijzing naar het milieueffectrapport net op zee Hollandse Kust (noord) en Hollandse Kust (west Alpha), alsmede de hieraan ten grondslag liggende onderzoeken, zijn opgenomen;</Al>
                   </Li>
                 </Lijst>
@@ -178,10 +182,14 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_2">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.2</Nummer>
                 <Opschrift>Hoofdstuk 2: Beschrijving van het project Net op Zee Hollandse Kust (Noord) en Hollandse Kust (west Alp-ha)</Opschrift>
               </Kop>
               <FormeleDivisie eId="fdvs_o_1__fdvs_o_2__fdvs_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_1">
                 <Kop>
+                  <Label>FormeleDivisie</Label>
+                  <Nummer>1.2.1</Nummer>
                   <Opschrift>Paragraaf 2.1: Inleiding</Opschrift>
                 </Kop>
                 <FormeleInhoud eId="fdvs_o_1__fdvs_o_2__fdvs_o_1__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_1__fcontent_o_1">
@@ -197,21 +205,23 @@
               </FormeleDivisie>
               <FormeleDivisie eId="fdvs_o_1__fdvs_o_2__fdvs_o_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_2">
                 <Kop>
+                  <Label>FormeleDivisie</Label>
+                  <Nummer>1.2.2</Nummer>
                   <Opschrift>Paragraaf 2.2: Kabeltracé op zee</Opschrift>
                 </Kop>
                 <FormeleInhoud eId="fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1">
                   <Al>Vanaf platform Hollandse Kust (west Alpha) naar platform Hollandse Kust (noord) lopen twee 220 kV-kabels, vervolgens lopen vanaf platform Hollandse Kust (noord) vier 220 kV-kabels naar de kust. Onder dit Projectbesluit valt het tracé vanaf 1 kilometer uit de kust. In totaal omvat het kabeltracé vier kabels op zee. Deze kabels transporteren wisselstroom met een spanningsniveau van 220 kV. Het kabelsysteem op zee bevat drie fasen per kabel. De benodigde breedte voor het tracé van de 220 kV kabels vanaf platform Hollandse Kust (noord) is opgebouwd uit:</Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1">
                     <Li eId="fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1__item_21" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1__item_21">
-                      <LiNummer>21</LiNummer>
+                      <LiNummer>u.</LiNummer>
                       <Al>de afstand tussen de kabels: 200 meter;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1__item_22" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1__item_22">
-                      <LiNummer>22</LiNummer>
+                      <LiNummer>v.</LiNummer>
                       <Al>een onderhoudszone aan weerszijden van de buitenste kabels: 500 meter;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1__item_23" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_2__fcontent_o_1__list_o_1__item_23">
-                      <LiNummer>23</LiNummer>
+                      <LiNummer>w.</LiNummer>
                       <Al>de totale strookbreedte van de kabels op zee is daarmee 1.600 meter (3 x 200 meter + 2 x 500 meter). </Al>
                     </Li>
                   </Lijst>
@@ -228,6 +238,8 @@
               </FormeleDivisie>
               <FormeleDivisie eId="fdvs_o_1__fdvs_o_2__fdvs_o_3" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_3">
                 <Kop>
+                  <Label>FormeleDivisie</Label>
+                  <Nummer>1.2.3</Nummer>
                   <Opschrift>Paragraaf 2.3: Kabeltracé op land</Opschrift>
                 </Kop>
                 <FormeleInhoud eId="fdvs_o_1__fdvs_o_2__fdvs_o_3__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_3__fcontent_o_1">
@@ -250,6 +262,8 @@
               </FormeleDivisie>
               <FormeleDivisie eId="fdvs_o_1__fdvs_o_2__fdvs_o_4" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_4">
                 <Kop>
+                  <Label>FormeleDivisie</Label>
+                  <Nummer>1.2.4</Nummer>
                   <Opschrift>Paragraaf 2.4:Transformatorstation</Opschrift>
                 </Kop>
                 <FormeleInhoud eId="fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1">
@@ -257,11 +271,11 @@
                   <Al>Het ruimtebeslag van de transformatorstationslocatie is circa 11,5 ha. Dit kent de volgende onderbouwing:</Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1__list_o_1" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1__list_o_1">
                     <Li eId="fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1__list_o_1__item_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1__list_o_1__item_1">
-                      <LiNummer>1</LiNummer>
+                      <LiNummer>a.</LiNummer>
                       <Al>De standaard lay-out voor een transformatorstation voor het net op zee gaat uit van een optimale vorm van de locatie (idealiter ongeveer vierkant, omdat hierin de benodigde componenten op de meest efficiënte manier geordend kunnen worden). Hierbij is voor de aansluiting van twee windparken (van samen 1.400 MW) ongeveer 7 hectare ruimte benodigd. De stationslocatie bij Tata Steel is een lang en smal terrein waardoor de standaard lay-out niet kan worden toegepast. Door het anders ordenen van de componenten en een deel van de installatie ten oosten van de transformatoren te plaatsen, is een zo optimaal mogelijke indeling gekozen, met minimale restruimte. </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1__list_o_1__item_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_2__fdvs_o_4__fcontent_o_1__list_o_1__item_2">
-                      <LiNummer>2</LiNummer>
+                      <LiNummer>b.</LiNummer>
                       <Al>Om het station in te richten voor de toekomstige klantaansluiting(en) is extra ruimtebeslag nodig. </Al>
                     </Li>
                   </Lijst>
@@ -427,10 +441,14 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_3" wId="mnre1045_1__fdvs_o_1__fdvs_o_3">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.3</Nummer>
                 <Opschrift>Hoofdstuk 3: Verkenning en motivering participatie</Opschrift>
               </Kop>
               <FormeleDivisie eId="fdvs_o_1__fdvs_o_3__fdvs_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1">
                 <Kop>
+                  <Label>FormeleDivisie</Label>
+                  <Nummer>1.3.1</Nummer>
                   <Opschrift>Paragraaf 3.1: Verkenning</Opschrift>
                 </Kop>
                 <FormeleInhoud eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1">
@@ -439,19 +457,19 @@
                   <Al>Voor het net op zee Hollandse Kust (noord) en Hollandse Kust (west Alpha) is een aantal elementen van belang: </Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_1">
-                      <LiNummer>1</LiNummer>
+                      <LiNummer>a.</LiNummer>
                       <Al>Waar vandaan moet de opgewekte elektriciteit getransporteerd worden? </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_2">
-                      <LiNummer>2</LiNummer>
+                      <LiNummer>b.</LiNummer>
                       <Al>Waar wordt de elektriciteit aangesloten op het landelijke hoogspanningsnet? </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_3" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_3">
-                      <LiNummer>3</LiNummer>
+                      <LiNummer>c.</LiNummer>
                       <Al>Wat zijn geschikte tracéalternatieven om van punt 1 (platform) naar punt 2 (aansluiting op hoogspanningsnet) te gaan? </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_4" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_1__item_4">
-                      <LiNummer>4</LiNummer>
+                      <LiNummer>d.</LiNummer>
                       <Al>En wat is een geschikte locatie om de stroom te transformeren van 220 kV naar 380 kV? </Al>
                     </Li>
                   </Lijst>
@@ -459,80 +477,80 @@
                   <Al>Bij het bepalen van de tracéalternatieven is een aantal uitgangspunten gehanteerd. Een generiek uitgangspunt is dat er gestreefd wordt naar een tracé dat effecten op de omgeving zo veel als mogelijk voorkomt en dat leidt tot een doelmatige uitvoering van het project. Dit betekent in de praktijk dat een zo kort mogelijk tracé wordt nagestreefd. Voor zee en land zijn verder de volgende uitgangspunten van toepassing:</Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_1">
-                      <LiNummer>1</LiNummer>
+                      <LiNummer>a.</LiNummer>
                       <Al>beperken van hinder voor gebruiksfuncties en omgeving, zoals zandwingebieden, olie- en gasinfrastructuur, scheepvaart, landbouw, bedrijven en recreatie en toerisme;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_2">
-                      <LiNummer>2</LiNummer>
+                      <LiNummer>b.</LiNummer>
                       <Al>beperken van milieueffecten, zoals het zo veel mogelijk vermijden van effecten op Natura 2000-gebieden, archeologie en woningen;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_3" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_3">
-                      <LiNummer>3</LiNummer>
+                      <LiNummer>c.</LiNummer>
                       <Al>daar waar mogelijk bundelen met kabel-, leidingen- en (weg)infrastructuur;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_4" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_4">
-                      <LiNummer>4</LiNummer>
+                      <LiNummer>d.</LiNummer>
                       <Al>technische randvoorwaarden, zoals het zoveel mogelijk haaks kruisen van kabels en leidingen (zee) en een lengte voor boren tot 1.200 meter (land);</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_5" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_2__item_5">
-                      <LiNummer>5</LiNummer>
+                      <LiNummer>e.</LiNummer>
                       <Al>beperken van (onderhouds)activiteiten in de toekomst, zoals rekening houden met de dynamiek van de zeebodem die van invloed is op de begraafdiepte van de kabels (zee) en aanleg van de kabelsystemen in plat vlak en alleen waar nodig in driehoeksligging (land) of met een boring.</Al>
                     </Li>
                   </Lijst>
                   <Al>Een belangrijke factor voor de ligging van de tracéalternatieven zijn de mogelijkheden voor een aanlandingspunt. Het aanlandingspunt vormt de overgang tussen het tracé op zee en het tracé op land. De belangrijkste uitgangspunten bij het aanlandingspunt zijn: </Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_3" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_3">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_3__item_6" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_3__item_6">
-                      <LiNummer>6</LiNummer>
+                      <LiNummer>f.</LiNummer>
                       <Al>aanwezige ruimte voor het realiseren van de overgang tussen land- en zeekabels;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_3__item_7" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_3__item_7">
-                      <LiNummer>7</LiNummer>
+                      <LiNummer>g.</LiNummer>
                       <Al>beperken van (milieu)effecten voor strandrecreatie, natuur en waterwingebieden.</Al>
                     </Li>
                   </Lijst>
                   <Al>De belangrijkste uitgangspunten voor het transformatorstation: </Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4__item_8" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4__item_8">
-                      <LiNummer>8</LiNummer>
+                      <LiNummer>h.</LiNummer>
                       <Al>beperken van hinder voor en milieueffecten op de omgeving en gebruiksfuncties, zoals woningen en bedrijven, andere kabel- en leidingeninfrastructuur;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4__item_9" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4__item_9">
-                      <LiNummer>9</LiNummer>
+                      <LiNummer>i.</LiNummer>
                       <Al>bij een optimale vorm van de locatie (idealiter vierkant) is ongeveer 7 hectare nodig voor de aansluiting van twee windparken (van samen 1.400 MW). De afstand van deze locatie tot aan de aansluiting op het landelijk 380 kV-hoogspanningsnet is vanwege technische beperkingen niet meer dan 7 km;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4__item_10" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_4__item_10">
-                      <LiNummer>10</LiNummer>
+                      <LiNummer>j.</LiNummer>
                       <Al>beschikbaarheid ruimte voor het creëren van vier schakelvelden bij een bestaand 380 kV-station, inclusief eventuele ruimte nodig voor blindstroomcompensatie.</Al>
                     </Li>
                   </Lijst>
                   <Al>Op basis van de genoemde uitgangspunten en consultatie van diverse partijen (Rijkswaterstaat, provincie, gemeenten, nautische partijen e.d.) zijn voor het tracé vanaf het platform Hollandse Kust (noord) zeven alternatieven op hoofdlijnen ontwikkeld: </Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_11" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_11">
-                      <LiNummer>11</LiNummer>
+                      <LiNummer>k.</LiNummer>
                       <Al>tracéalternatief 1 Egmond aan Zee: vanaf het platform Hollandse Kust (noord) door de in de Beleidsnota Noordzee 2016-2021 aangewezen 'corridor kabels en leidingen' (In de Beleidsnota Noordzee 2016-2021 aangeduid als 'voorkeurstracé kabels en leidingen'. Hier corridor genoemd om verwarring met het woord voorkeursalternatief te voorkomen) en via aanlanding bij Egmond aan Zee over land naar het 380 kV-station Beverwijk; </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_12" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_12">
-                      <LiNummer>12</LiNummer>
+                      <LiNummer>l.</LiNummer>
                       <Al>tracéalternatief 2 Castricum: vanaf het platform Hollandse Kust (noord) door de corridor kabels en leidingen naar de aanlanding bij Castricum aan Zee en via Castricum over land naar het 380 kV-station Beverwijk; </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_13" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_13">
-                      <LiNummer>13</LiNummer>
+                      <LiNummer>m.</LiNummer>
                       <Al>tracéalternatief 3 Wijk aan Zee: vanaf het platform Hollandse Kust (noord) door de corridor kabels en leidingen en dan parallel aan een gasleiding naar de aanlanding bij Wijk aan Zee en dan via een zo kort mogelijke route over land naar het 380 kV-station Beverwijk; </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_14" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_14">
-                      <LiNummer>14</LiNummer>
+                      <LiNummer>n.</LiNummer>
                       <Al>tracéalternatief 4 Noordzeekanaal tot aan Wijkertunnel: vanaf het platform Hollandse Kust (noord) over zee ten oosten van Offshore Windpark Egmond aan Zee (OWEZ) naar en door het Noordzeekanaal en ter hoogte van de Wijkertunnel over land naar het 380 kV-station Beverwijk; </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_15" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_15">
-                      <LiNummer>15</LiNummer>
+                      <LiNummer>o.</LiNummer>
                       <Al>tracéalternatief 5 Noordzeekanaal tot havengebied Amsterdam: vanaf het platform Hollandse Kust (noord) over zee ten oosten van windpark OWEZ naar en door het Noordzeekanaal en voorbij Zijkanaal C nabij de rand van het havengebied Amsterdam over land naar het 380 kV-station Vijfhuizen; </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_16" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_16">
-                      <LiNummer>16</LiNummer>
+                      <LiNummer>p.</LiNummer>
                       <Al>tracéalternatief 6 IJmuiden Zuid: vanaf het platform Hollandse Kust (noord) over zee ten zuidwesten van windpark OWEZ en via aanlanding ten zuiden van IJmuiden over land naar het 380 kV-station Vijfhuizen; </Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_17" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_5__item_17">
-                      <LiNummer>17</LiNummer>
+                      <LiNummer>q.</LiNummer>
                       <Al>tracéalternatief 7 Zandvoort: vanaf het platform Hollandse Kust (noord) over zee ten zuidwesten van windpark OWEZ en via aanlanding ter hoogte van Zandvoort over land naar het 380 kV-station Vijfhuizen. </Al>
                     </Li>
                   </Lijst>
@@ -545,11 +563,11 @@
                   <Al>Verder kwam naar voren dat tracéalternatief 4 sterk gedragen wordt door de omgeving en relatief weinig milieueffecten kent. Bij tracéalternatief 4 is echter sprake van twee technisch nader te onderzoeken aandachtspunten vanwege de aanleg c.q. ligging in het Noordzeekanaal. Dit betreft:</Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_6" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_6">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_6__item_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_6__item_1">
-                      <LiNummer>1</LiNummer>
+                      <LiNummer>a.</LiNummer>
                       <Al>een aantal technische onzekerheden waardoor de haalbaarheid niet zeker is; en,</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_6__item_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_6__item_2">
-                      <LiNummer>2</LiNummer>
+                      <LiNummer>b.</LiNummer>
                       <Al>de onduidelijkheid of er twee windparken aangesloten kunnen worden via het Noordzeekanaal vanwege de beperkt beschikbare ruimte in de kanaalbodem voor de kabelsystemen. </Al>
                     </Li>
                   </Lijst>
@@ -567,19 +585,19 @@
                   <Al>Tijdens de ontwikkeling van het project is er een uitgebreide zoektocht geweest naar een geschikte locatie voor een nieuw transformatorstation. Aanvankelijk is gekeken naar vier locaties:</Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_3" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_3">
-                      <LiNummer>3</LiNummer>
+                      <LiNummer>c.</LiNummer>
                       <Al>nabij de Bazaar in Beverwijk;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_4" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_4">
-                      <LiNummer>4</LiNummer>
+                      <LiNummer>d.</LiNummer>
                       <Al>nabij het bestaande station Beverwijk Kagerweg aan de oostzijde van de A9;</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_5" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_5">
-                      <LiNummer>5</LiNummer>
+                      <LiNummer>e.</LiNummer>
                       <Al>op het industrieterrein waar Tata Steel is gehuisvest; en,</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_6" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_7__item_6">
-                      <LiNummer>6</LiNummer>
+                      <LiNummer>f.</LiNummer>
                       <Al>ten noordwesten van het bestaande 380 kV station in Vijfhuizen. </Al>
                     </Li>
                   </Lijst>
@@ -591,11 +609,11 @@
                   <Al>Samen met de eerdergenoemde vier locaties zijn er in totaal dus negen alternatieven voor de transformatorstationslocatie in het MER meegenomen, te weten:</Al>
                   <Lijst eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_8" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_8">
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_8__item_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_8__item_1">
-                      <LiNummer>1</LiNummer>
+                      <LiNummer>a.</LiNummer>
                       <Al>Met een aansluiting op het 380 kV-station bij Beverwijk: locaties Tata Steel, Beverwijk Bazaar, Beverwijk Kagerweg en Laaglandersluisweg.</Al>
                     </Li>
                     <Li eId="fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_8__item_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_1__fcontent_o_1__list_o_8__item_2">
-                      <LiNummer>2</LiNummer>
+                      <LiNummer>b.</LiNummer>
                       <Al>Met een aansluiting op het 380 kV-station bij Vijfhuizen: locaties Bocht Westpoortweg, De Liede, Polanenpark, Vijfhuizen Noordwest en Vijfhuizen Zuidwest.</Al>
                     </Li>
                   </Lijst>
@@ -606,6 +624,8 @@
               </FormeleDivisie>
               <FormeleDivisie eId="fdvs_o_1__fdvs_o_3__fdvs_o_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_2">
                 <Kop>
+                  <Label>FormeleDivisie</Label>
+                  <Nummer>1.3.2</Nummer>
                   <Opschrift>Paragraaf 3.2: Participatie</Opschrift>
                 </Kop>
                 <FormeleInhoud eId="fdvs_o_1__fdvs_o_3__fdvs_o_2__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_3__fdvs_o_2__fcontent_o_1">
@@ -619,6 +639,8 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_4" wId="mnre1045_1__fdvs_o_1__fdvs_o_4">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.4</Nummer>
                 <Opschrift>Hoofdstuk 4: Tijdelijke maatregelen en voorzieningen</Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_4__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_4__fcontent_o_1">
@@ -640,17 +662,19 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_5" wId="mnre1045_1__fdvs_o_1__fdvs_o_5">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.5</Nummer>
                 <Opschrift>Hoofdstuk 5: Maatregelen ter voorkoming, beperking of compensatie van nadelige gevolgen </Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_5__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_5__fcontent_o_1">
                 <Al>Het geluid dat een transformatorstation produceert, komt vooral van de transformatoren en de compensatiepoelen (die nodig zijn om de verbinding elektrisch stabiel te houden). Deze maken een geluid dat gekenmerkt wordt als een lage bromtoon. Uit de berekeningen blijkt dat TenneT met de maatregelen die reeds zijn voorzien, voldoet aan de wettelijke geluidnormen. Naar verwachting zal het geluid van het nieuwe transformatorstation in Wijk aan Zee en Beverwijk West niet of nauwelijks hoorbaar zijn. Feit is evenwel dat Wijk aan Zee en Beverwijk te maken hebben met de aanwezigheid van grootschalige industrie en nu in het kader van de energietransitie te maken krijgen met de realisatie van een nieuw groot project. Daarom is besloten om extra geluidmaatregelen te nemen. </Al>
                 <Lijst eId="fdvs_o_1__fdvs_o_5__fcontent_o_1__list_o_1" type="expliciet" wId="mnre1045_1__fdvs_o_1__fdvs_o_5__fcontent_o_1__list_o_1">
                   <Li eId="fdvs_o_1__fdvs_o_5__fcontent_o_1__list_o_1__item_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_5__fcontent_o_1__list_o_1__item_1">
-                    <LiNummer>1</LiNummer>
+                    <LiNummer>a.</LiNummer>
                     <Al>TenneT dient zorg te dragen voor het inpandig maken van de transformatoren door deze volledig te omsluiten met vier wanden - die aan de binnenzijden worden bekleed met geluidsabsorberend materiaal - en voorzien van een dak. </Al>
                   </Li>
                   <Li eId="fdvs_o_1__fdvs_o_5__fcontent_o_1__list_o_1__item_2" wId="mnre1045_1__fdvs_o_1__fdvs_o_5__fcontent_o_1__list_o_1__item_2">
-                    <LiNummer>2</LiNummer>
+                    <LiNummer>b.</LiNummer>
                     <Al>Verder dient TenneT de compensatiespoelen te omsluiten met vier wanden met geluidsabsorberend materiaal. De bovenkant moet open blijven, omdat de compensatiespoelen luchtgekoeld zijn. </Al>
                   </Li>
                 </Lijst>
@@ -660,6 +684,8 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_6" wId="mnre1045_1__fdvs_o_1__fdvs_o_6">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.6</Nummer>
                 <Opschrift>Hoofdstuk 6: Termijn waarin gemeente geen regels mag stellen die het projectbesluit belemmeren</Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_6__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_6__fcontent_o_1">
@@ -668,6 +694,8 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_7" wId="mnre1045_1__fdvs_o_1__fdvs_o_7">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.7</Nummer>
                 <Opschrift>Hoofdstuk 7: Buiten toepassing gelaten regels </Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_7__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_7__fcontent_o_1">
@@ -676,6 +704,8 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_8" wId="mnre1045_1__fdvs_o_1__fdvs_o_8">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.8</Nummer>
                 <Opschrift>Hoofdstuk 8: Omgevingsvergunningen &amp; andere toestemmingen </Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_8__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_8__fcontent_o_1">
@@ -686,6 +716,8 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_9" wId="mnre1045_1__fdvs_o_1__fdvs_o_9">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.9</Nummer>
                 <Opschrift>Hoofdstuk 9: Uitwerking</Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_9__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_9__fcontent_o_1">
@@ -694,6 +726,8 @@
             </FormeleDivisie>
             <FormeleDivisie eId="fdvs_o_1__fdvs_o_10" wId="mnre1045_1__fdvs_o_1__fdvs_o_10">
               <Kop>
+                <Label>FormeleDivisie</Label>
+                <Nummer>1.10</Nummer>
                 <Opschrift>Hoofdstuk 10: Maatwerkvoorschriften</Opschrift>
               </Kop>
               <FormeleInhoud eId="fdvs_o_1__fdvs_o_10__fcontent_o_1" wId="mnre1045_1__fdvs_o_1__fdvs_o_10__fcontent_o_1">
